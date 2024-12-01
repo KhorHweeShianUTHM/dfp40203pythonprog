@@ -1,0 +1,5 @@
+print("........................................................................")
+print("Python is a popular programming language.")
+print("It was created by Guido van Rossum, and released in 1991.")
+print("Python is an interpreted, high-level and general-ourpose programming.")
+print("........................................................................")

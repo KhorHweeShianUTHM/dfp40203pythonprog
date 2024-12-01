@@ -1,0 +1,10 @@
+My Result from C:\Users\TOSHIBA\Desktop\[python]labex3_03ddt19f1118\phonelist.txt: 
+
+aliah-0194022445: 2 times
+robert-011145569: 1 times
+abu-0124512123: 9 times
+azman-0137894561: 14 times
+james-0194789632: 7 times
+sopi-0124563210: 1 times
+siti-0177451236: 8 times
+ali-0194022433: 8 times

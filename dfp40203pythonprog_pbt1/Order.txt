@@ -1,0 +1,22 @@
+*****Order Time*****
+Date : 2021-06-14
+Time : 09:19:25
+Day  : Monday
+
+*****CUSTOMER DETAIL*****
+Name    : khor
+IC      : 010805010732
+Address : taman beratu, 06600, alor setart, kedah
+PhoneNum: 0164643995
+Email   : shian0805@gmail.com
+
+*****ORDER INFORMATION*****
+Food        : Burger Set (RM11.0)
+Beverage    : Coca cola (RM0.0)
+
+*****PAYMENT INFORMATION*****
+Total price : RM11.0
+Delivery charge : RM4.0
+Total       : RM15.0
+Payment     : RM20
+Balance     : RM5.0
